@@ -1,0 +1,10 @@
+style           text         back
+ 0 - nada       97 - white   107 - branco
+ 1 - negrito    30 - black   40 - preto
+ 4 - sublinhado 31 - red     41 - vermelho
+ 7 - negativo   32 - green   42 - verde
+                33 - yellow  43 - amarelo
+                34 - blue    44 - azul
+                35 - magenta 45 - magenta
+                36 - cyan    46 - ciano
+                37 - grey    47 - cinza
